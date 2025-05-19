@@ -1,0 +1,6 @@
+linx boot process:
+
+1. BIOS / UEFI
+BIOS (Basic Input/Output System) or UEFI (Unified Extensible Firmware Interface) initializes the hardware.
+
+It performs a POST (Power-On Self Test) to verify hardware integrity.
